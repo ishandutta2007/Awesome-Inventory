@@ -1,7 +1,7 @@
 # Awesome-Inventory
 
 
-## Top Inventory Management Platforms Ecosystem
+### Top Inventory Management Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
