@@ -62,7 +62,7 @@ Below is a curated table of the top commercial SaaS platforms for stock control,
 
 ## 🔓 Open-Source Inventory & ERP GitHub Projects
 
-For teams requiring data ownership, self-hosting, and customizable stock control logic, these open-source repositories provide robust inventory, part-tracking, and warehouse management capabilities. Sorted by **GitHub Star Count** in descending order:
+For teams requiring data ownership, self-hosting, and customizable stock control logic, these open-source repositories provide robust inventory, part-tracking, and warehouse management capabilities. Sorted by **GitHub Stars_Count** in descending order:
 
 | ⭐ Repository | 📝 Description | 🛡️ License | 🌟 Stars (Clickable Link) |
 | :--- | :--- | :--- | :--- |
@@ -106,4 +106,4 @@ If you find this repository helpful for your operational research, business tech
 ## ⚠️ Disclaimer
 
 - This repository is a **community-curated** educational directory and does not constitute formal operational, accounting, or enterprise architecture advice.
-- Pricing, market valuations, and star counts are subject to change over time. Please verify directly with vendors or open-source repository maintainers.
+- Pricing, market valuations, and Stars_Counts are subject to change over time. Please verify directly with vendors or open-source repository maintainers.
