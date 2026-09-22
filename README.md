@@ -1,7 +1,6 @@
 # Awesome-Inventory
 
-<<<<<<< HEAD
-=======
+
 ## Top Inventory Management Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
@@ -213,4 +212,3 @@ Star the repo if you find it useful!
 **Made for operations managers, warehouse leads, manufacturers, and ecommerce teams seeking control of their stock.**
 
 Let's keep inventory accurate, flexible, and as open as practical.
->>>>>>> fe3564c72b202987de642c2882d86c3724eee934
