@@ -57,6 +57,7 @@ Below is a curated table of the top commercial SaaS platforms for stock control,
 | **[Katana MRP](https://katanamrp.com/)** 🏭 | Modern cloud manufacturing and inventory platform focused on real-time production planning, BOMs, and live stock tracking. | $299/mo | 14-Day Free Trial (Full feature access) | ~$10.3M Revenue ($67M+ Funding) |
 | **[Finale Inventory](https://www.finaleinventory.com/)** 🏬 | High-volume cloud inventory system for multi-channel e-commerce sellers with strong barcode and warehouse automation. | $99/mo | 14-Day Free Trial (Up to 500 orders/mo) | ~$2.2M Revenue (Acquired by Descartes) |
 | **[Sortly](https://www.sortly.com/)** 📱 | Simple, visual inventory tracking software popular with small businesses, field teams, and asset management needs. | $49/mo | Free Plan: 1 user, 100 entries | ~$1M–$3.1M Revenue |
+| **[Ofisx Inventory Management](https://ofisx.com/en)** 📲 | Mobile-first stock control for small shops on Android, iOS and web (web.ofisx.com): barcode sales/purchases/returns, low-stock alerts, stock counts, customer credit ledger, PDF invoices, 58/80 mm thermal printing, multi-user. A separate [offline app](https://play.google.com/store/apps/details?id=com.ofisx.inventoryoffline) works 100% without internet (data on device, Google Drive/iCloud backup, single device). | Free sign-up; Pro/Premium as in-app purchases (regional store pricing) | Offline app: free up to 100 products / 300 transactions; Pro as subscription or one-time lifetime purchase | Bootstrapped (Turkey) / revenue not disclosed |
 
 ---
 
